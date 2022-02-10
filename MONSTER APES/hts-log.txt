@@ -1,0 +1,53 @@
+HTTrack3.49-1+htsswf+htsjava launched on Wed, 09 Feb 2022 12:22:54 at https://monsterapesales.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://monsterapesales.com/ -O1 "C:\Users\julia\OneDrive\Documentos\MONSTER APES" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Medium.eot (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Medium.eot? (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Medium.woff (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Medium.ttf (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-ThinItalic.eot (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-ThinItalic.eot? (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-ThinItalic.woff2 (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-ThinItalic.woff (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-ThinItalic.ttf (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Heavy.eot (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Heavy.eot? (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Heavy.woff (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Heavy.ttf (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BookItalic.eot (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BookItalic.eot? (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BookItalic.woff2 (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BookItalic.woff (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BookItalic.ttf (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Book.eot (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Book.eot? (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Book.woff2 (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Book.woff (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Book.ttf (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Bold.eot (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Bold.eot? (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Bold.woff (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Bold.ttf (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Thin.eot (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Thin.eot? (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Thin.woff2 (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Thin.woff (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-Thin.ttf (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-MediumItalic.eot (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-MediumItalic.eot? (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-MediumItalic.woff2 (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-MediumItalic.woff (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-MediumItalic.ttf (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BoldItalic.eot (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BoldItalic.eot? (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BoldItalic.woff2 (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BoldItalic.woff (from https://monsterapesales.com/css/style.css)
+12:23:25	Error: 	"Not Found" (404) at link https://monsterapesales.com/fonts/BlenderPro-BoldItalic.ttf (from https://monsterapesales.com/css/style.css)
+
+HTTrack Website Copier/3.49-1 mirror complete in 31 seconds : 63 links scanned, 20 files written (8028547 bytes overall) [4680383 bytes received at 150980 bytes/sec], 5113900 bytes transferred using HTTP compression in 53 files, ratio 32%, 7.8 requests per connection
+(42 errors, 0 warnings, 0 messages)
